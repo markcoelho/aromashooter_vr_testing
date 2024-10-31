@@ -5,5 +5,5 @@ Being developed at the VR LAB, University of Coimbra, the goal is to synchronize
 
 Current Progress:
 
-    Testing HTTP requests for AromaShooter control.
-    Prototyping A-Frame components to trigger scent based on VR events.
+Testing HTTP requests for AromaShooter control.
+Prototyping A-Frame components to trigger scent based on VR events.
